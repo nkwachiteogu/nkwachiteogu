@@ -4,6 +4,8 @@
 
 I am a seasoned SEO Copywriting expert with extensive experience in marketing automation, CRM, and analytics tools. With a proven track record of driving growth, enhancing brand awareness, and increasing sales conversions, I bring value to every project I take on.
 
+Currently working on [Fexspace](https://fexspace.com)
+
 ## What I Do
 
 - **SEO Copywriting:** Crafting high-quality, optimized content that ranks well on search engines and resonates with target audiences.
