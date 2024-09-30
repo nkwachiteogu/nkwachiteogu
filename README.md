@@ -8,7 +8,7 @@ Currently working on [ExcellentBridge](https://excellentbridge.com), [InvexERP](
 
 ## 🔧 What I Do
 
-- 🖋️ **SEO Copywriting:** Creating high-quality, search engine-optimized content that drives organic traffic and resonates with target audiences.
+- 🖋️ **SEO Copywriting:** Creating high-quality, search-engine-optimized content that drives organic traffic and resonates with target audiences.
 - 🤖 **Marketing Automation & CRM:** Streamlining marketing processes using tools like **[HubSpot](https://www.hubspot.com)**, and **[MailChimp](https://mailchimp.com/)** to improve lead generation and customer relationships.
 - 📊 **Analytics & Reporting:** Utilizing tools like **Google Analytics** to measure, analyze, and improve campaign performance through data-driven insights.
 
@@ -17,8 +17,8 @@ Currently working on [ExcellentBridge](https://excellentbridge.com), [InvexERP](
 ![SEO](https://img.shields.io/badge/SEO-Expert-brightgreen) ![Copywriting](https://img.shields.io/badge/Copywriting-Specialist-blue) ![Marketing Automation](https://img.shields.io/badge/Marketing%20Automation-Expert-orange) ![CRM](https://img.shields.io/badge/CRM-Professional-lightgrey)
 
 - **SEO & Content Strategy**
-- **Marketing Automation Tools** (e.g., **HubSpot**, **Marketo**, **Mailchimp**)
-- **CRM Systems** (e.g., **Salesforce**, **Zoho**)
+- **Marketing Automation Tools** (e.g., **HubSpot**, **Mailchimp**)
+- **CRM Systems** (e.g., **InvexERP**)
 - **Google Analytics & Other Reporting Tools**
 - **Sales Funnel Optimization**
 - **Leadership & Strategic Thinking**
@@ -33,7 +33,7 @@ Currently working on [ExcellentBridge](https://excellentbridge.com), [InvexERP](
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nkwachi-iteogu/) 
-- 🐦 [Twitter](https://x.com/iamnkwachiteogu))
+- 🐦 [Twitter](https://x.com/iamnkwachiteogu)
 
 Feel free to check out my repositories and connect with me to discuss exciting opportunities, share insights on SEO, or collaborate on marketing automation strategies.
 
