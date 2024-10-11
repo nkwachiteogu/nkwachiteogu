@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Nkwachi Iteogu.
 
-### SEO Copywriting Expert | Digital Marketing Strategist | Business Development Professional
+### Growth & Marketing Specialist | SEO Expert | Digital Marketing Strategist | Business Development Professional
 
 🌟 I am a seasoned **SEO Copywriting** expert with extensive experience in **Marketing Automation**, **CRM**, and **Analytics Tools**. I have a proven track record of driving growth, enhancing brand awareness, and increasing sales conversions while showcasing excellent leadership, communication, and strategic thinking skills.
 
